@@ -1,5 +1,4 @@
 class ApiInterface
-
     def self.getImages
         API = "https://www.googleapis.com/customsearch/v1"
         q = "inspirational quotes"
